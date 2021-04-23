@@ -1,7 +1,7 @@
 # Titanic-HW
 This is a project that I worked with Titanic data. The aim of this project is to build a model that predict the survive status of customer on the trip. 
 
-There are four models that I used to build a model. Here is the detail:
+There are four algorithms that I used to build the model. Here is the detail:
 
 mean_accuracy    model
 1    0.816129    LogisticRegression()
