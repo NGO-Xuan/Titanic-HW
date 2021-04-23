@@ -1,0 +1,14 @@
+Xuan Thi Ngo 
+
+I have used 4 models: DecisionTreeClassifier(), LogisticRegression(),  KNeighborsClassifier(), GaussianNB(). 
+
+Moreover, I also used Cross Validation with number of fold equals to 10. The results I got are: 
+
+mean_accuracy	model
+1	0.816129	LogisticRegression()
+2	0.808065	KNeighborsClassifier()
+3	0.806452	GaussianNB()
+4	0.803226	DecisionTreeClassifier()
+
+From the table above, we can say that the model with Logistic Regression algorithm provides us highest accuracy. 
+
